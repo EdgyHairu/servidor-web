@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/EdgyHairu/servidor-web/issues"
   },
-  "homepage": "https://github.com/EdgyHairu/servidor-web#readme"
+  "homepage": "https://github.com/EdgyHairu/servidor-web#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
 }
